@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Redmi 13pro",
+      "price": "21999",
+      "category": "mobile"
+    },
+    {
+      "id": "2",
+      "name": "Realme 11pro",
+      "price": "19999",
+      "category": "mobile"
+    },
+    {
+      "id": "3",
+      "name": "Samsung crystal Tv 55'",
+      "price": "69999",
+      "category": "tv"
+    },
+    {
+      "id": "4",
+      "name": "LG nanopixel tv",
+      "price": "79999",
+      "category": "tv"
+    }
+  ]
+}
